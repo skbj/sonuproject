@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    overflow-wrap:break-word;
+
+}
+
+
+.navbar{
+
+position: absolute;
+top: 0px;
+
+
+}
+.nav-link{
+
+color:black;
+
+
+} 
+.nav-link:hover{
+
+    color:coral;
+    
+    
+    } 
+    .right{
+
+
+position: absolute;
+top:50px;
+left: 720px;
+    }
+
+    .bi{
+
+font-size: 20px;
+color:black;
+margin-top:10px;
+border-radius: 100%;
+
+    } 
+
+.left{
+display: flex;
+
+justify-content: space-between;
+    position:absolute;
+    top:60px;
+
+
+
+}
+#text{
+border: 1px solid red;
+box-shadow: none;
+background-color: transparent;
+
+}
+
+.centertext{
+    position: absolute;
+    top: 180px;
+    color:red;
+    
+    width: 100%;
+}
+span{
+font-size: 40px;
+font-weight: 800px;
+
+}
+.search{
+    position: absolute;
+    top: 330px;
+padding: 20px;
+    width: 50%;
+    left: 250px;
+    box-shadow: none;
+}
+#bu{
+
+background-color:coral;
+color: white;
+box-shadow: none;
+
+
+}
+.bi2{    position: absolute;
+    top: 40px;
+    left: 40px;
+
+
+
+
+}
+#need{position: absolute;
+    top: 450px;
+    left: 850px;
+    color:white;
+    padding:  5px 10px;
+    background-color: coral;
+
+
+}
+.bia{
+
+
+font-size: 30px;
+
+color: red;
+
+
+}
+
+
+p:hover{
+
+color: coral;
+
+
+}
+
+.carousel-item{
+
+    height: 80vh;
+    background-blend-mode: darken;
+}
+
+
